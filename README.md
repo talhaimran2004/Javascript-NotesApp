@@ -1,7 +1,7 @@
 
-# Todo List
+# Keep Your Notes
 
-An easy-to-follow to-do list
+An easy-to-follow Notes Web App
 
 
 ## Tech Stack
